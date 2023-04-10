@@ -6,7 +6,7 @@ const Products8 = [
     name: `Tukda Rice`,
     price: `Rs 50`,
     desc: `Tukda rice is known for its small, round grains and its ability to absorb flavors well. It has a soft and sticky texture when cooked, making it ideal for dishes that require a slightly sticky rice.`,
-    src: "/img1.jpg",
+    src: "/img1.jpeg",
   },
   {
     id: 2,
