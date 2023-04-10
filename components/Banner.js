@@ -129,7 +129,7 @@ export default function Example() {
             <h1 className="text-4xl  capitalize font-bold tracking-tight text-black sm:text-6xl">
               Taste the difference with our premium rice.
             </h1>
-            <p className="mt-6 text-justify max-w-xs md:max-w-3xl mx-auto text-[16px] capitalize  text-black/80">
+            <p className="mt-6 text-justify max-w-xs md:max-w-3xl mx-auto text-[16px] capitalize  text-black/90">
               we believe that premium rice starts with high-quality seeds,
               careful cultivation, and the right amount of sunshine and water.
               We source our rice from the best farms in the region and use
